@@ -3,7 +3,7 @@
 **Title** : PurchaseOrderJPA 
 
 Introduction : 
-Practice Backend Application : JPA Demo  of Springboot framework 
+Practice Backend Application : JPA Demo  of Springboot framework - REST API
   1. Server Application of purchanse order 
 
 
@@ -21,7 +21,7 @@ source Code Folder Struture:
      Download project and open in IntelliJIDEA
    2. Compile Project : Go to terminal and enter Following comand
           ./gradlew bootrun
-  3. GO to Postmann Tool and GET  or Post data to Database using link in Controller java files 
+  3. GO to Postmann Tool and use it to  Test REST API 
 
 
 
